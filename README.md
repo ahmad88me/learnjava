@@ -1,6 +1,7 @@
 # learnjava
 Just a couple of cool exercises for java
 
+
 1. draw 5 boxes.
 2. draw the 5 boxes widths as 5,4,3,2,1 respectively.
 3. draw the boxes in a diagonal way.
